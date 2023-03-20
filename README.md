@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mattgr13
-- 👀 I’m interested in full stack web development 
-- 🌱 I’m currently learning coding and design 
+- 👀 I’m Fullstack developer 
+- 🌱 I’m currently coding and design 
 - 💞️ I’m looking to collaborate to learn more 
 - 📫 How to reach me 
 
